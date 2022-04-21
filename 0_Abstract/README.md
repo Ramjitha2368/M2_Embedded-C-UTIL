@@ -1,4 +1,4 @@
-# ABSTRACT FOR FIRE ALARAM
+# ABSTRACT FOR FIRE ALARM
 
 Fire Alarm Circuit is a simple circuit that detects the fire and activates the Siren Sound or Buzzer. Fire Alarm Circuits are very important devices to detect fire in the right time and prevent any damage to people or property.
 
