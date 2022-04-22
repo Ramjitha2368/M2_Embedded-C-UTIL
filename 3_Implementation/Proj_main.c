@@ -1,6 +1,6 @@
 /**
  * @file project_main.c
- * @author Ramjitha2368
+ * @author Ramjitha
  * @brief app to control temperature in a car
  * @version 0.1
  * @date 2022-04-21
