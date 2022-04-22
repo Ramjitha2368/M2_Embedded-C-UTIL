@@ -62,6 +62,8 @@ And alert all and help them from escape.
 
 # Codiga And Codacy Badges
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7921a73c748c4ea995012809bd97a8f7)](https://www.codacy.com/gh/Ramjitha2368/M2_Embedded-C-UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ramjitha2368/M2_Embedded-C-UTIL&amp;utm_campaign=Badge_Grade)
+
 [![Code Quality Score](https://api.codiga.io/project/32991/score/svg)
 
 [![Code Grade](https://api.codiga.io/project/32991/status/svg)
