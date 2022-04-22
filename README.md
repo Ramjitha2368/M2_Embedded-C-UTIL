@@ -39,3 +39,7 @@ The fourth purpose of your fire alarm system is to notify authorities. This ensu
 # Conclusion
 The fire detection systems proposed in the literature served fire stopping with no care of the responsiveness. Thus, this study considers the existing issues and build an efficient and effective fire detection system based on IoT technology, gas, temperature, and smoke sensors to collect the data accurately and rapidly
 And alert all and help them from escape.
+
+# SDLC ACTIVITY
+
+[![Build Linux](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml)
