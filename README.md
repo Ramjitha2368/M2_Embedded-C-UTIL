@@ -1,4 +1,4 @@
-# FIREALARM USING ATMEGA328 MICROCONTROLLER
+# FIRE ALARM USING ATMEGA328 MICROCONTROLLER
 
 # Introduction
 * Nowadays, fire incidents have become a critical issue , which must be dealt with on time without any unnecessary delay to avoid the loss in lives and belongings . It is considered a fire situation when the monitored temperature exceeds 50o C. In critical places such as hospitals, schools, and banks, personnel's arrival time to come for help in fire hazards is around 15 minutes .
@@ -51,3 +51,5 @@ And alert all and help them from escape.
 [![Contribution Check-Git Inspector](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
 
 [![cpp check](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/cpp%20check.yml)
+
+[![Dynamic check](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Dynamic%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Dynamic%20check.yml)
