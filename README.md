@@ -63,3 +63,6 @@ And alert all and help them from escape.
 [![Code Quality Score](https://api.codiga.io/project/32991/score/svg)
 
 [![Code Grade](https://api.codiga.io/project/32991/status/svg)
+
+![Codiga -Code Quality_page-0001](https://user-images.githubusercontent.com/101034610/164661598-748b2300-b299-403f-83e4-66960c7b15ca.jpg)
+
