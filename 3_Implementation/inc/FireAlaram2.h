@@ -2,7 +2,7 @@
 #define __ACTIVITY_3_H__
 /**
  * @file activity3.h
- * @author anoop
+ * @author Ramjitha
  * @brief activity3
  * @version 0.1
  * @date 2022-04-21
