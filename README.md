@@ -60,6 +60,8 @@ And alert all and help them from escape.
 
 [![Valgrind](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Valgrind.yml)
 
+# Codiga And Codacy Badges
+
 [![Code Quality Score](https://api.codiga.io/project/32991/score/svg)
 
 [![Code Grade](https://api.codiga.io/project/32991/status/svg)
