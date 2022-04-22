@@ -43,3 +43,5 @@ And alert all and help them from escape.
 # SDLC ACTIVITY
 
 [![Build Linux](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml)
+
+[![CI](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml)
