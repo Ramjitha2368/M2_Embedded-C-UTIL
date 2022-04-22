@@ -42,6 +42,7 @@ And alert all and help them from escape.
 
 # SDLC ACTIVITY
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/603c4cbcefbd4371812f54cdb97bf74b)](https://app.codacy.com/gh/Ramjitha2368/M2_Embedded-C-UTIL?utm_source=github.com&utm_medium=referral&utm_content=Ramjitha2368/M2_Embedded-C-UTIL&utm_campaign=Badge_Grade_Settings)
 [![Build Linux](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20Linux.yml)
 
 [![CI](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml)
