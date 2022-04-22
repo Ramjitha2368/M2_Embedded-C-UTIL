@@ -55,3 +55,5 @@ And alert all and help them from escape.
 [![Dynamic check](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Dynamic%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Dynamic%20check.yml)
 
 [![Static check](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Static%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Static%20check.yml)
+
+[![Unity testing](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Unity%20testing.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Unity%20testing.yml)
