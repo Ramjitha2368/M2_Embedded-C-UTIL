@@ -49,3 +49,5 @@ And alert all and help them from escape.
 [![Build windows](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20windows.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20windows.yml)
 
 [![Contribution Check-Git Inspector](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
+
+[![cpp check](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/cpp%20check.yml)
