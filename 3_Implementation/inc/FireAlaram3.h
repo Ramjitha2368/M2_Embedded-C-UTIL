@@ -2,7 +2,7 @@
 #define __ACTIVITY_4_H__
 /**
  * @file activity4.h
- * @author anoop
+ * @author ramjitha
  * @brief activity4
  * @version 0.1
  * @date 2022-04-22
