@@ -47,3 +47,5 @@ And alert all and help them from escape.
 [![CI](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/CI.yml)
 
 [![Build windows](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20windows.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Build%20windows.yml)
+
+[![Contribution Check-Git Inspector](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml/badge.svg)](https://github.com/Ramjitha2368/M2_Embedded-C-UTIL/actions/workflows/Contribution%20Check-Git%20Inspector.yml)
